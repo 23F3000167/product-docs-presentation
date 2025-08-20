@@ -35,7 +35,7 @@ style: |
 
 ---
 
-<!-- _backgroundImage: url('https://source.unsplash.com/1600x900/?technology,code') -->
+<!-- _backgroundImage: url('https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-table-F4ottWBnCpM,code') -->
 <!-- _backgroundSize: cover -->
 # Background Image Example
 
